@@ -12,39 +12,30 @@
 
 </div><br>
 
-![Our proposed EdgeVAD workflow](media/workflow.jpg)
+<p align="center">
+  <img style="width: 90%" src="media/workflow.jpg">
+</p>
 
-<span style="font-size:12px; font-style:italic;">Fig. 1. Our proposed EdgeVAD workflow</span>
-
+<small>_Fig. 1. Our proposed EdgeVAD workflow_</small>
 <br>
+
+<p align="center">
+  <img style="width: 50%" src="media/jetson.jpg">
+
+<small>_(a)_</small>
+
+</p>
+
+<p align="center">
+  <img style="width: 50%" src="media/asusnoc.jpg">
+
+<small>_(b)_</small>
+
+</p>
+
+<small>_Fig. 2. Physical setting of EdgeVAD in Jetson Orin Nano (a) and ASUS NUC Performance (b)._ </small>
 <br>
 
-<div align="center">
-  <div>
-    <div style="display:inline-block; width:45%; vertical-align:middle;">
-      <img src="media/jetson.jpg" width="90%">
-    </div>
-    <div style="display:inline-block; width:45%; vertical-align:middle;">
-      <img src="media/asusnoc.jpg" width="90%">
-    </div>
-  </div>
-
-  <div style="display:flex; justify-content:center; margin-top:4px;">
-    <div style="width:45%; text-align:center; font-style:italic; font-size:14px;">
-      (a)
-    </div>
-    <div style="width:45%; text-align:center; font-style:italic; font-size:14px;">
-      (b)
-    </div>
-  </div>
-
-  <div style="margin-top:6px; font-style:italic; font-size:14px; text-align:left;">
-    Fig. 2. Physical setting of EdgeVAD in Jetson Orin Nano (a) and ASUS NUC Performance (b).
-  </div>
-</div>
-
-<br>
-<br>
 
 <div align="center" style=" width: 100%; ">
   <img src="media/proposed.jpg" style="width:80%;">

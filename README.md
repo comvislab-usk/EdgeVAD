@@ -52,6 +52,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 - **S3D-GELU MSAD Features:**  
   [🔗 Google Drive Link](https://drive.google.com/drive/folders/1SzMTWWPZ3S9mWE_snSdrw8bsDJyIyZnY?usp=sharing)
   <br>
+  <br>
 
 ## 📦 Trained Models
 
@@ -66,6 +67,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 
 - **Link of sample videos and corresponding features:**  
   [🔗 Google Drive Link](https://drive.google.com/drive/folders/1O7CT4UHjR1HiAlMuzjhmpYHjQOJu7j4O?usp=sharing)
+  <br>
   <br>
 
 ## 📈 Results
@@ -342,7 +344,7 @@ Please consider citing our paper in your publications if the project helps your 
 “EdgeVAD: Edge AI for Real-World Video Anomaly Detection”, submitted to OJSP, 2026.
 ```
 
-<br>
+<!-- <br>
 <br>
 
 <div align="center" style="position: relative; width: 100%;">
@@ -357,4 +359,4 @@ Please consider citing our paper in your publications if the project helps your 
   ">
     Fig. 4. Qualitative analysis of tested videos. The red dotted box shows ground truth values, the green curve indicates the anomaly score, the red box frames show anomaly events, and the yellow box frames indicate normal events. (a) Fighting033, (b) Normal006, (c) Young.And.Dangerous.I.1996 (B6 – Car Accident), (d) Before.Sunrise (Normal), (e) Water Incident – 4, and (f) Normal Testing -7.
   </div>
-</div>
+</div> -->

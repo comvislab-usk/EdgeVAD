@@ -17,25 +17,21 @@
 </p>
 
 <small>_Fig. 1. Our proposed EdgeVAD workflow_</small>
-<br>
+<br><br>
 
 <p align="center">
-  <img style="width: 50%" src="media/jetson.jpg">
-
-<small>_(a)_</small>
-
+  <img style="width: 50%" src="media/jetson.jpg"><br>
+  <small><em>(a)</em></small>
 </p>
 
 <p align="center">
-  <img style="width: 50%" src="media/asusnoc.jpg">
-
-<small>_(b)_</small>
-
+  <img style="width: 50%" src="media/asusnoc.jpg"><br>
+  <small><em>(b)</em></small>
 </p>
 
 <small>_Fig. 2. Physical setting of EdgeVAD in Jetson Orin Nano (a) and ASUS NUC Performance (b)._ </small>
 <br>
-
+<br>
 
 <div align="center" style=" width: 100%; ">
   <img src="media/proposed.jpg" style="width:80%;">

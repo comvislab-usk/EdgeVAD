@@ -2,7 +2,7 @@
 
 # EdgeVAD: Edge AI for Real-World Video Anomaly Detection
 
-[Kahlil Muchtar (Universitas Syiah Kuala, COMVISLAB USK)](https://comvis.mystrikingly.com/), Al Bahri (Universitas Syiah Kuala), Yudha Nurdin (Universitas Syiah Kuala), [Oky Firmansyah (Nodeflux)](https://www.nodeflux.io/), Alvin Prayuda Juniarta Dwiyantoro (Google), and [Martha Arbayani Zaidan (University of Helsinki)](https://www.marthazaidan.com/) <br>
+[Kahlil Muchtar (Universitas Syiah Kuala, COMVISLAB USK)](https://comvis.mystrikingly.com/), Al Bahri (Universitas Syiah Kuala), Yudha Nurdin (Universitas Syiah Kuala), [Oky Firmansyah (Nodeflux)](https://www.nodeflux.io/), Alvin Prayuda Juniarta Dwiyantoro (Google), and [Martha Arbayani Zaidan (University of Helsinki)](https://www.marthazaidan.com/) <br><br>
 
 </div>
 
@@ -10,19 +10,12 @@
 
 > **_Abstract:_** _The growing implementation of Intelligent Surveillance Systems (ISS) has heightened the need for Video Anomaly Detection (VAD) to enhance security, reduce labor costs, and improve energy efficiency. Most current VAD methodologies concentrate on delivering superior outcomes based on quantitative metrics, including multimodal techniques, LLM-based models, vision transformers, and sort on. However, these techniques typically demand substantial computational power and are limited to offline operations, rendering them unsuitable for online or real-time VAD surveillance applications. This paper introduces a VAD system based on Edge AI, which integrates a lightweight S3D-based extractor utilizing the Gaussian Error Linear Unit (GeLU) activation function, resulting in an enhanced VAD system. We conduct a comprehensive analysis of the performance of our proposed solution on two well-known edge devices: the Jetson Orin Nano and the ASUS NUC Performance. The analysis encompasses inference speeds, power consumption, and GPU loads across various edge devices. In terms of dataset evaluations, three benchmark datasets (UCF-Crime, XD-Violence, and MSAD) are assessed, demonstrating that our proposed work can attain 86 %, 91%, and 88% of AUC, respectively. These comprehensive insights into the advantages and drawbacks of different edge devices can inform future research and progress in Edge AI technology._
 
-</div>
+</div><br>
 
-<div style="position: relative; width: 100%;">
-  <img src="media/workflow.jpg" style="width:100%;">
-  <div style="
-    position: absolute;
-    font-style: italic;
-    font-size: 14px;
-    background: rgba(255,255,255,0.7);
-  ">
-    Fig. 1. Our proposed EdgeVAD workflow
-  </div>
-</div>
+![Our proposed EdgeVAD workflow](media/workflow.jpg)
+
+<span style="font-size:12px; font-style:italic;">Fig. 1. Our proposed EdgeVAD workflow</span>
+
 <br>
 <br>
 

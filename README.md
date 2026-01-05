@@ -51,6 +51,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 
 - **S3D-GELU MSAD Features:**  
   [🔗 Google Drive Link](https://drive.google.com/drive/folders/1SzMTWWPZ3S9mWE_snSdrw8bsDJyIyZnY?usp=sharing)
+  <br>
 
 ## 📦 Trained Models
 
@@ -65,13 +66,15 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 
 - **Link of sample videos and corresponding features:**  
   [🔗 Google Drive Link](https://drive.google.com/drive/folders/1O7CT4UHjR1HiAlMuzjhmpYHjQOJu7j4O?usp=sharing)
+  <br>
 
-## Results
+## 📈 Results
 
 - **Results on UCF-Crime**
 
 <p align="center"><b>Table 1. The results of UCF-Crime</b></p>
 <div align="center">
+  <small>
     <table >
         <tr style="background-color:#b3b3b3; text-align:center;">
             <th>Supervision</th>
@@ -172,12 +175,15 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
             <td style="color:red;">86.0</td>
         </tr>
     </table>
+  </small>
 </div>
+<br>
 
 - **Results on UCF-Crime**
 
 <p align="center"><b>Table 1. The results of UCF-Crime</b></p>
 <div align="center">
+  <small>
     <table >
         <tr style="background-color:#b3b3b3; text-align:center;">
             <th>Supervision</th>
@@ -272,17 +278,63 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
             <td>84.98</td>
         </tr>
         <tr style="font-weight:bold;">
-            <td style="background-color:#b3b3b3;"></td>
+            <td></td>
             <td>Ours</td>
             <td>S3D</td>
             <td style="color:red;">86.0</td>
         </tr>
     </table>
+  </small>
 </div>
+<br>
 
-## Qualitative Results
+- **Results on MSAD**
 
-## Citation
+<p align="center"><b>Table 1. The results of MSAD</b></p>
+<div align="center">
+  <small>
+    <table >
+        <tr style="background-color:#b3b3b3; text-align:center;">
+            <th>Method</th>
+            <th>Backbone</th>
+            <th>AUC</th>
+        </tr>
+        <tr>
+            <td>
+            RTFM [13]
+            </td>
+            <td>I3D</td>
+            <td>86.65</td>
+        </tr>
+        <tr>
+            <td>UR-DMU [64]</td>
+            <td>I3D</td>
+            <td>85.02</td>
+        </tr>
+        <tr>
+            <td >MGFN [60]</td>
+            <td>I3D</td>
+            <td>84.96</td>
+        </tr>
+        <tr>
+            <td >TEVAD [65]</td>
+            <td>I3D</td>
+            <td>86.82</td>
+        </tr>
+        </tr>
+        <tr style="font-weight:bold;">
+            <td>Ours</td>
+            <td>S3D</td>
+            <td style="color:red;">88.0</td>
+        </tr>
+    </table>
+  </small>
+</div>
+<br>
+
+## 🎨 Qualitative Results
+
+## 📝 Citation
 
 Please consider citing our paper in your publications if the project helps your research.
 

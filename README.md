@@ -183,7 +183,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 
 - **Results on UCF-Crime**
 
-<p align="center"><b>Table 1. The results of UCF-Crime</b></p>
+<p align="center"><b>Table 2. The results of UCF-Crime</b></p>
 <div align="center">
   <small>
     <table >
@@ -292,7 +292,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 
 - **Results on MSAD**
 
-<p align="center"><b>Table 1. The results of MSAD</b></p>
+<p align="center"><b>Table 5. The results of MSAD</b></p>
 <div align="center">
   <small>
     <table >
@@ -333,8 +333,21 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
   </small>
 </div>
 <br>
+<br>
 
 ## 🎨 Qualitative Results
+
+<p align="center">
+    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="500">
+</p>
+<p align="center">
+    <img src="media/gif/UCF-Arson.gif" alt="UCF" width="500">
+</p>
+<p align="center">
+    <img src="media/gif/XD-Bad Boys.gif" alt="XD" width="500">
+</p>
+<br>
+<br>
 
 ## 📝 Citation
 

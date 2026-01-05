@@ -33,44 +33,38 @@
 <br>
 <br>
 
-<div align="center" style=" width: 100%; ">
-  <img src="media/proposed.jpg" style="width:80%;">
-  <div style="
-    font-style: italic;
-    font-size: 14px;
-    background: rgba(255,255,255,0.7);
-  ">
-    Fig. 3. Proposed Web-Interface Setting of EdgeVAD
-  </div>
-</div>
-<br>
+<p align="center">
+  <img style="width: 80%" src="media/proposed.jpg">
+</p>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/4149/4149677.png" width="30" style="vertical-align: middle;"/> Data
+<small>_Fig. 3. Proposed Web-Interface Setting of EdgeVAD_ </small><br><br>
+
+## 📊 Data
 
 Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence, MSAD datasets, trained model, and sample videos and corresponding features:
 
 - **S3D-GELU UCF-Crime Features:**  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="18" style="vertical-align: middle;"/> Google Drive Link](https://drive.google.com/drive/folders/1tl_GA9ecUq_Zo8FejsmaXmGGq6a1evMP?usp=sharing)
+  [🔗 Google Drive Link](https://drive.google.com/drive/folders/1tl_GA9ecUq_Zo8FejsmaXmGGq6a1evMP?usp=sharing)
 
 - **S3D-GELU XD-Violence Features:**  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="18" style="vertical-align: middle;"/> Google Drive Link](https://drive.google.com/drive/folders/13OV2U2SynknxK-RJQX4tqtb81togead_?usp=sharing)
+  [🔗 Google Drive Link](https://drive.google.com/drive/folders/13OV2U2SynknxK-RJQX4tqtb81togead_?usp=sharing)
 
 - **S3D-GELU MSAD Features:**  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="18" style="vertical-align: middle;"/> Google Drive Link](https://drive.google.com/drive/folders/1SzMTWWPZ3S9mWE_snSdrw8bsDJyIyZnY?usp=sharing)
+  [🔗 Google Drive Link](https://drive.google.com/drive/folders/1SzMTWWPZ3S9mWE_snSdrw8bsDJyIyZnY?usp=sharing)
 
-## <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="30" style="vertical-align: middle;">Trained Models
+## 📦 Trained Models
 
 - **UCF-Crime:**  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="18" style="vertical-align: middle;"/> Google Drive Link](https://drive.google.com/file/d/1nDiF4sjv7V1SzHCkEARAHi-75wMbR0sr/view?usp=sharing)
+  [🔗 Google Drive Link](https://drive.google.com/file/d/1nDiF4sjv7V1SzHCkEARAHi-75wMbR0sr/view?usp=sharing)
 
 - **XD-Violence:**  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="18" style="vertical-align: middle;"/> Google Drive Link](https://drive.google.com/file/d/19BvfxD-ZTnZbWWmNkfN4M-SJKHOozhMi/view?usp=sharing)
+  [🔗 Google Drive Link](https://drive.google.com/file/d/19BvfxD-ZTnZbWWmNkfN4M-SJKHOozhMi/view?usp=sharing)
 
 - **MSAD:**  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="18" style="vertical-align: middle;"/> Google Drive Link](https://drive.google.com/file/d/1WlL6RK8XP7JxhjIiVNM4rG-v1LXvELSr/view?usp=sharing)
+  [🔗 Google Drive Link](https://drive.google.com/file/d/1WlL6RK8XP7JxhjIiVNM4rG-v1LXvELSr/view?usp=sharing)
 
 - **Link of sample videos and corresponding features:**  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="18" style="vertical-align: middle;"/> Google Drive Link](https://drive.google.com/drive/folders/1O7CT4UHjR1HiAlMuzjhmpYHjQOJu7j4O?usp=sharing)
+  [🔗 Google Drive Link](https://drive.google.com/drive/folders/1O7CT4UHjR1HiAlMuzjhmpYHjQOJu7j4O?usp=sharing)
 
 ## Results
 

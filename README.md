@@ -323,13 +323,77 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 ## 🎨 Qualitative Results
 
 <p align="center">
-    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="450">&nbsp;&nbsp;
-    <img src="media/gif/UCF-Arson.gif" alt="UCF" width="450">
+    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="650">&nbsp;&nbsp;
+    <img src="media/gif/UCF-Arson.gif" alt="UCF" width="650">
 </p>
 
 <p align="center">
-    <img src="media/gif/XD-Bad Boys.gif" alt="XD" width="450">
+    <img src="media/gif/XD-Bad Boys.gif" alt="XD" width="650">
 </p>
+<br>
+
+- **Inference Speed between Different Devices**
+
+<p align="center">
+  <img style="width: 80%" src="media/inference.png">
+</p>
+
+<small>_Fig. 5. The Inference Comparison between Jetson Orin Nano and ASUS NUC Performance in each dataset model._ </small><br>
+
+- **Power Consumption**
+
+<p align="center">
+  <img style="width: 80%" src="media/consumptionA.jpg"><br>
+  <small><em>(a)</em></small>
+</p>
+
+<p align="center">
+  <img style="width: 80%" src="media/consumptionB.jpg"><br>
+  <small><em>(b)</em></small>
+</p>
+<p align="center">
+  <img style="width: 80%" src="media/consumptionC.jpg"><br>
+  <small><em>(c)</em></small>
+</p>
+
+<small>_Fig. 6. The comparison of GPU load (IGPU0-CURR_LOAD) and temperature (GPU-therm-CURR_TEMP) across the dataset models. (a) UCF-Crime model, (b) XD-Violence model, and (c) MSAD model._ </small>
+<br>
+
+<p align="center"><b>Table 2. The results of XD-Violence</b></p>
+<div align="center">
+  <small>
+    <table >
+        <tr style="background-color:#b3b3b3; text-align:center;">
+            <th>Dataset Model</th>
+            <th>Power Usage</th>
+            <th>Memory Consumption</th>
+            <th>Peak Temperature</th>
+        </tr>
+        <tr>
+            <td style="background-color:#b3b3b3; font-weight:bold; text-align:center;">
+            UCF-CRIME
+            </td>
+            <td>27W / 115W</td>
+            <td>1,759 MiB </td>
+            <td>~50 °C</td>
+        </tr>
+        <tr>
+            <td style="background-color:#b3b3b3; font-weight:bold; text-align:center;">
+            XD-Violence
+            <td>27W / 115W</td>
+            <td>1,805 MiB </td>
+            <td>~50 °C</td>
+        </tr>
+        <tr>
+            <td style="background-color:#b3b3b3; font-weight:bold; text-align:center;">
+            MSAD
+            <td>26W / 115W</td>
+            <td>1,792 MiB </td>
+            <td>~50 °C</td>
+        </tr>
+    </table>
+  </small>
+</div>
 <br>
 <br>
 

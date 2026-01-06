@@ -359,7 +359,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 <small>_Fig. 6. The comparison of GPU load (IGPU0-CURR_LOAD) and temperature (GPU-therm-CURR_TEMP) across the dataset models. (a) UCF-Crime model, (b) XD-Violence model, and (c) MSAD model._ </small>
 <br>
 
-<p align="center"><b>Table 2. The results of XD-Violence</b></p>
+<p align="center"><b>Table 6. The comparison of power usage, memory consumption, and temperature in the ASUS NUC Performance.</b></p>
 <div align="center">
   <small>
     <table >

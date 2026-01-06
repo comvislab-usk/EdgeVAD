@@ -332,6 +332,81 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </p>
 <br>
 
+&nbsp;&nbsp;&nbsp;**🎬 S3D MSAD GELU**
+<p align="center">
+    <img src="media/gif/S3D_MSAD_GELU/Assault_14.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_MSAD_GELU/Explosion_7.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_MSAD_GELU/Fighting_7.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_MSAD_GELU/Fire_21.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_MSAD_GELU/Normal_7.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_MSAD_GELU/People_falling_11.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_MSAD_GELU/Object_Falling_14.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_MSAD_GELU/Robbery_8.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_MSAD_GELU/Shooting_12.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_MSAD_GELU/Traffic_accident_36.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_MSAD_GELU/Vandalism_3.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_MSAD_GELU/Water_incident_4.gif" alt="UCF" width="300">
+</p><br>
+
+
+&nbsp;&nbsp;&nbsp;**🎬 S3D UCF GELU**
+<p align="center">
+    <img src="media/gif/S3D_UCF_GELU/Abuse028.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_UCF_GELU/Arrest039.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_UCF_GELU/Arson011.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_UCF_GELU/Assault006.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_UCF_GELU/Burglary079.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_UCF_GELU/Explosion022.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_UCF_GELU/Fighting033.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_UCF_GELU/Normal_Videos_010.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_UCF_GELU/RoadAccidents019.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_UCF_GELU/Robbery102.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_UCF_GELU/Shooting002.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_UCF_GELU/Stealing058.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_UCF_GELU/Vandalism007.gif" alt="MSAD" width="300">
+</p><br>
+
+
+&nbsp;&nbsp;&nbsp;**🎬 S3D XD GELU**
+<p align="center">
+    <img src="media/gif/S3D_XD_GELU/BadBoys-B6.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_XD_GELU/BeWithYou-A.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_XD_GELU/Election-B5.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_XD_GELU/FastFurious6-B1.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_XD_GELU/LordOfWar-G.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_XD_GELU/LoveDeathAndRobots-B2.gif" alt="UCF" width="300">
+</p>
+<p align="center">
+    <img src="media/gif/S3D_XD_GELU/YoungAndDangerous-B4.gif" alt="MSAD" width="300">
+</p>
+<br>
+
 &nbsp;&nbsp;&nbsp;**⏱️ Inference Speed between Different Devices**
 
 <p align="center">

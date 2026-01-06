@@ -181,9 +181,9 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </div>
 <br>
 
-- **Results on UCF-Crime**
+- **Results XD-Violence**
 
-<p align="center"><b>Table 2. The results of UCF-Crime</b></p>
+<p align="center"><b>Table 2. The results of XD-Violence</b></p>
 <div align="center">
   <small>
     <table >
@@ -194,96 +194,81 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
             <th>AUC</th>
         </tr>
         <tr>
-            <td rowspan="10" style="background-color:#b3b3b3; font-weight:bold; text-align:center;">
+            <td rowspan="11" style="background-color:#b3b3b3; font-weight:bold; text-align:center;">
             Weakly supervised
             </td>
             <td>Sulthani et al. [23]</td>
             <td>C3D RGB</td>
-            <td>75.41</td>
+            <td>73.20</td>
         </tr>
         <tr>
-            <td>Zhang et al. [53]</td>
-            <td>C3D RGB</td>
-            <td>78.66</td>
-        </tr>
-        <tr>
-            <td>Motion-Aware [54]</td>
-            <td>PWC-Flow</td>
-            <td>79.00</td>
-        </tr>
-        <tr>
-            <td>GCN-Anomaly [37]</td>
-            <td>TSN-RGB</td>
-            <td>82.12</td>
-        </tr>
-        <tr>
-            <td>CLAWS Net [55]</td>
-            <td>C3D RGB</td>
-            <td>83.03</td>
-        </tr>
-        <tr>
-            <td>CLAWS Net+ [56]</td>
-            <td>C3D RGB</td>
-            <td>83.37</td>
-        </tr>
-        <tr>
-            <td>CLAWS Net+ [56]</td>
-            <td>3DResNext</td>
-            <td>84.16</td>
-        </tr>
-        <tr>
-            <td>Wu et al. [16]</td>
+            <td>Wu et al. [58]</td>
             <td>I3D</td>
-            <td>82.44</td>
+            <td>75.4</td>
         </tr>
         <tr>
-            <td>RTFM [36]</td>
+            <td>RTFM [13]</td>
             <td>C3D</td>
-            <td>83.28</td>
+            <td>75.9</td>
         </tr>
         <tr>
-            <td>RTFM [36]</td>
+            <td>RTFM [13]</td>
             <td>I3D</td>
-            <td>84.30</td>
+            <td>77.8</td>
         </tr>
         <tr>
-            <td rowspan="6" style="background-color:#b3b3b3; font-weight:bold; text-align:center;">
+            <td>Li et al. [38]</td>
+            <td>C3D RGB</td>
+            <td>75.53</td>
+        </tr>
+        <tr>
+            <td>Li et al. [38]</td>
+            <td>I3D RGB</td>
+            <td>78.28</td>
+        </tr>
+        <tr>
+            <td>Liu et al. [59]</td>
+            <td>I3D RGB</td>
+            <td>78.94</td>
+        </tr>
+        <tr>
+            <td>MFGN [60]</td>
+            <td>I3D RGB</td>
+            <td>79.2</td>
+        </tr>
+        <tr>
+            <td>Distill [61]</td>
+            <td>I3D RGB</td>
+            <td>79.0</td>
+        </tr>
+        <tr>
+            <td>Park et al. [62]</td>
+            <td>I3D RGB</td>
+            <td>78.5</td>
+        </tr>
+        <tr>
+            <td>Zhang et al. [63]</td>
+            <td>I3D RGB</td>
+            <td>78.7</td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="background-color:#b3b3b3; font-weight:bold; text-align:center;">
             Lightweight Models
             </td>
             <td>Contrastive [50]</td>
-            <td>C3D</td>
-            <td>83.40</td>
-        </tr>
-        <tr>
-            <td>Contrastive [50]</td>
-            <td>I3D</td>
-            <td>84.62</td>
-        </tr>
-        <tr>
-            <td>Watanabe [27]</td>
-            <td>I3D</td>
-            <td>84.91</td>
-        </tr>
-        <tr>
-            <td>BE-WSVAD [57]</td>
-            <td>I3D</td>
-            <td>84.1</td>
-        </tr>
-        <tr>
-            <td>Wang et al. [28]</td>
-            <td>I3D</td>
-            <td>84.7</td>
+            <td>I3D+FLOW</td>
+            <td>71.5</td>
         </tr>
         <tr>
             <td>STVAD [5]</td>
-            <td>I3D</td>
-            <td>84.98</td>
+            <td>I3D RGB</td>
+            <td>74.05</td>
         </tr>
         <tr style="font-weight:bold;">
             <td></td>
             <td>Ours</td>
             <td>S3D</td>
-            <td style="color:red;">86.0</td>
+            <td style="color:red;">91.0</td>
         </tr>
     </table>
   </small>
@@ -338,13 +323,12 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 ## 🎨 Qualitative Results
 
 <p align="center">
-    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="500">
+    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/UCF-Arson.gif" alt="UCF" width="300">
 </p>
+
 <p align="center">
-    <img src="media/gif/UCF-Arson.gif" alt="UCF" width="500">
-</p>
-<p align="center">
-    <img src="media/gif/XD-Bad Boys.gif" alt="XD" width="500">
+    <img src="media/gif/XD-Bad Boys.gif" alt="XD" width="300">
 </p>
 <br>
 <br>

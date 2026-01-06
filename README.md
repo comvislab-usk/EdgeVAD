@@ -335,17 +335,11 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </p>
 <br>
 
-<div align="center">
-  <div style="display:inline-block; width:45%; text-align:center;">
-    <img src="media/qualitative.jpg" width="90%"><br>
-    <em>(a)</em>
-  </div>
-  <div style="display:inline-block; width:45%; text-align:center;">
-    <img src="media/qualitative2.jpg" width="90%"><br>
-    <em>(b)</em>
-  </div>
-</div>
-
+<p align="center">
+  <img src="media/qualitative.png" style="width:70%;">
+  <img src="media/qualitative2.png" style="width:70%;">
+  <img src="media/qualitative3.png" style="width:70%;">
+</p>
 
 <small>_Fig. 4. Qualitative analysis of tested videos. The red dotted box shows ground truth values, the green curve indicates the anomaly score, the red box frames show anomaly events, and the yellow box frames indicate normal events. (a) Fighting033, (b) Normal006, (c) Young.And.Dangerous.I.1996 (B6 – Car Accident), (d) Before.Sunrise (Normal), (e) Water Incident – 4, and (f) Normal Testing -7._ </small>
 

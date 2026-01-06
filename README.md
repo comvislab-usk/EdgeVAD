@@ -323,12 +323,12 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 ## 🎨 Qualitative Results
 
 <p align="center">
-    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="300">&nbsp;&nbsp;
-    <img src="media/gif/UCF-Arson.gif" alt="UCF" width="300">
+    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="450">&nbsp;&nbsp;
+    <img src="media/gif/UCF-Arson.gif" alt="UCF" width="450">
 </p>
 
 <p align="center">
-    <img src="media/gif/XD-Bad Boys.gif" alt="XD" width="300">
+    <img src="media/gif/XD-Bad Boys.gif" alt="XD" width="450">
 </p>
 <br>
 <br>

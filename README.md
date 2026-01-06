@@ -72,7 +72,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 
 ## 📈 Results
 
-- **Results on UCF-Crime**
+&nbsp;&nbsp;&nbsp;**🎥 Results on UCF-Crime**
 
 <p align="center"><b>Table 1. The results of UCF-Crime</b></p>
 <div align="center">
@@ -181,7 +181,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </div>
 <br>
 
-- **Results XD-Violence**
+&nbsp;&nbsp;&nbsp;**🚨 Results XD-Violence**
 
 <p align="center"><b>Table 2. The results of XD-Violence</b></p>
 <div align="center">
@@ -275,7 +275,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </div>
 <br>
 
-- **Results on MSAD**
+&nbsp;&nbsp;&nbsp;**🧪 Results on MSAD**
 
 <p align="center"><b>Table 5. The results of MSAD</b></p>
 <div align="center">
@@ -332,7 +332,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </p>
 <br>
 
-- **Inference Speed between Different Devices**
+&nbsp;&nbsp;&nbsp;**⏱️ Inference Speed between Different Devices**
 
 <p align="center">
   <img style="width: 80%" src="media/inference.png">
@@ -340,7 +340,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 
 <small>_Fig. 5. The Inference Comparison between Jetson Orin Nano and ASUS NUC Performance in each dataset model._ </small><br>
 
-- **Power Consumption**
+&nbsp;&nbsp;&nbsp;**🔋 Power Consumption**
 
 <p align="center">
   <img style="width: 80%" src="media/consumptionA.jpg"><br>

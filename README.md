@@ -323,7 +323,10 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 ## 🎨 Qualitative Results
 
 <p align="center">
-    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="650">&nbsp;&nbsp;
+    <img src="media/gif/MSAD-Fighting 7.gif" alt="MSAD" width="650">
+</p>
+
+<p align="center">
     <img src="media/gif/UCF-Arson.gif" alt="UCF" width="650">
 </p>
 
@@ -332,7 +335,24 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </p>
 <br>
 
+<div align="center">
+  <div style="display:inline-block; width:45%; text-align:center;">
+    <img src="media/qualitative.jpg" width="90%"><br>
+    <em>(a)</em>
+  </div>
+  <div style="display:inline-block; width:45%; text-align:center;">
+    <img src="media/qualitative2.jpg" width="90%"><br>
+    <em>(b)</em>
+  </div>
+</div>
+
+
+<small>_Fig. 4. Qualitative analysis of tested videos. The red dotted box shows ground truth values, the green curve indicates the anomaly score, the red box frames show anomaly events, and the yellow box frames indicate normal events. (a) Fighting033, (b) Normal006, (c) Young.And.Dangerous.I.1996 (B6 – Car Accident), (d) Before.Sunrise (Normal), (e) Water Incident – 4, and (f) Normal Testing -7._ </small>
+
+<br>
+
 &nbsp;&nbsp;&nbsp;**🎬 S3D MSAD GELU**
+
 <p align="center">
     <img src="media/gif/S3D_MSAD_GELU/Assault_14.gif" alt="MSAD" width="300">&nbsp;&nbsp;
     <img src="media/gif/S3D_MSAD_GELU/Explosion_7.gif" alt="UCF" width="300">
@@ -358,8 +378,8 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
     <img src="media/gif/S3D_MSAD_GELU/Water_incident_4.gif" alt="UCF" width="300">
 </p><br>
 
-
 &nbsp;&nbsp;&nbsp;**🎬 S3D UCF GELU**
+
 <p align="center">
     <img src="media/gif/S3D_UCF_GELU/Abuse028.gif" alt="MSAD" width="300">&nbsp;&nbsp;
     <img src="media/gif/S3D_UCF_GELU/Arrest039.gif" alt="UCF" width="300">
@@ -388,8 +408,8 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
     <img src="media/gif/S3D_UCF_GELU/Vandalism007.gif" alt="MSAD" width="300">
 </p><br>
 
-
 &nbsp;&nbsp;&nbsp;**🎬 S3D XD GELU**
+
 <p align="center">
     <img src="media/gif/S3D_XD_GELU/BadBoys-B6.gif" alt="MSAD" width="300">&nbsp;&nbsp;
     <img src="media/gif/S3D_XD_GELU/BeWithYou-A.gif" alt="UCF" width="300">
@@ -479,20 +499,3 @@ Please consider citing our paper in your publications if the project helps your 
 ```
 “EdgeVAD: Edge AI for Real-World Video Anomaly Detection”, submitted to OJSP, 2026.
 ```
-
-<!-- <br>
-<br>
-
-<div align="center" style="position: relative; width: 100%;">
-  <img src="media/qualitative.jpg" style="width:70%;">
-  <img src="media/qualitative2.jpg" style="width:70%;">
-  <img src="media/qualitative3.jpg" style="width:70%;">
-  <div style="
-    position: absolute;
-    font-style: italic;
-    font-size: 14px;
-    background: rgba(255,255,255,0.7);
-  ">
-    Fig. 4. Qualitative analysis of tested videos. The red dotted box shows ground truth values, the green curve indicates the anomaly score, the red box frames show anomaly events, and the yellow box frames indicate normal events. (a) Fighting033, (b) Normal006, (c) Young.And.Dangerous.I.1996 (B6 – Car Accident), (d) Before.Sunrise (Normal), (e) Water Incident – 4, and (f) Normal Testing -7.
-  </div>
-</div> -->

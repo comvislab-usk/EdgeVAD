@@ -391,7 +391,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
     <img src="media/gif/S3D_UCF_GELU/Normal_Videos_010.gif" alt="UCF" width="300">
 </p>
 <p align="center">
-    <img src="media/gif/S3D_UCF_GELU/RoadAccidents019.gif" alt="MSAD" width="300">&nbsp;&nbsp;
+    <img src="media/gif/S3D_UCF_GELU/RoadAccident019.gif" alt="MSAD" width="300">&nbsp;&nbsp;
     <img src="media/gif/S3D_UCF_GELU/Robbery102.gif" alt="UCF" width="300">
 </p>
 <p align="center">

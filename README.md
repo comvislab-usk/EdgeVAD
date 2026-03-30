@@ -491,5 +491,5 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 Please consider citing our paper in your publications if the project helps your research.
 
 ```
-“EdgeVAD: Edge AI for Real-World Video Anomaly Detection”, submitted to OJSP, 2026.
+“EdgeVAD: Edge AI for Real-World Video Anomaly Detection”, submitted to JBD, 2026.
 ```

@@ -424,7 +424,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 &nbsp;&nbsp;&nbsp;**⏱️ Inference Speed between Different Devices**
 
 <p align="center">
-  <img style="width: 80%" src="media/inference.png">
+  <img style="width: 80%" src="media/InferenceComp.png">
 </p>
 
 <small>_Fig. 5. The Inference Comparison between Jetson Orin Nano and ASUS NUC Performance in each dataset model._ </small><br>

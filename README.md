@@ -485,7 +485,7 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 </div>
 <br>
 <br>
-
+<!--
 ## 📝 Citation
 
 Please consider citing our paper in your publications if the project helps your research.
@@ -493,3 +493,4 @@ Please consider citing our paper in your publications if the project helps your 
 ```
 “EdgeVAD: Edge AI for Real-World Video Anomaly Detection”, submitted to IMAVIS, 2026.
 ```
+-->

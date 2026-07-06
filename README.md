@@ -2,7 +2,7 @@
 
 # EdgeVAD: Edge AI for Real-World Video Anomaly Detection
 
-[Kahlil Muchtar (Universitas Syiah Kuala, COMVISLAB USK)](https://comvis.mystrikingly.com/), Al Bahri (Universitas Syiah Kuala), Yudha Nurdin (Universitas Syiah Kuala), [Oky Firmansyah (Nodeflux)](https://www.nodeflux.io/), Alvin Prayuda Juniarta Dwiyantoro (Google), [Martha Arbayani Zaidan (University of Helsinki)](https://www.marthazaidan.com/) , Abdallah Namoun (AI Center, Faculty of Computer and Information Systems, Islamic University of Madinah), and Chih-Yang Lin (Department of Mechanical Engineering, National Central University, Taiwan)<br><br>
+[Kahlil Muchtar (Universitas Syiah Kuala, COMVISLAB USK)](https://comvis.mystrikingly.com/), Al Bahri (Universitas Syiah Kuala), Yudha Nurdin (Universitas Syiah Kuala), [Oky Firmansyah (Nodeflux)](https://www.nodeflux.io/), Alvin Prayuda Juniarta Dwiyantoro (Google), [Martha Arbayani Zaidan (University of Helsinki)](https://www.marthazaidan.com/), and Chih-Yang Lin (Department of Mechanical Engineering, National Central University, Taiwan)<br><br>
 
 </div>
 

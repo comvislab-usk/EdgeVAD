@@ -1,6 +1,6 @@
 <div align="center">
 
-# EdgeVAD: Edge AI for Real-World Video Anomaly Detection
+# EdgeVAD: A Lightweight Edge AI Framework for Real-Time Video Anomaly Detection in Intelligent Surveillance Systems
 
 [Kahlil Muchtar (Universitas Syiah Kuala, COMVISLAB USK)](https://comvis.mystrikingly.com/), Al Bahri (Universitas Syiah Kuala), Yudha Nurdin (Universitas Syiah Kuala), [Oky Firmansyah (Nodeflux)](https://www.nodeflux.io/), Alvin Prayuda Juniarta Dwiyantoro (Google), [Martha Arbayani Zaidan (University of Helsinki)](https://www.marthazaidan.com/), Bernardi Pranggono (School of Computing and Information Science, Anglia Ruskin University) and Chih-Yang Lin (Department of Mechanical Engineering, National Central University, Taiwan)<br><br>
 

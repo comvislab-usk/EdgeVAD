@@ -1,6 +1,6 @@
 <div align="center">
 
-# EdgeVAD: A Lightweight Edge AI Framework for Real-Time Video Anomaly Detection in Intelligent Surveillance Systems
+# EdgeVAD: A Lightweight Edge AI Framework for Real-Time Video Anomaly Detection
 
 [Kahlil Muchtar (Universitas Syiah Kuala, COMVISLAB USK)](https://comvis.mystrikingly.com/), Al Bahri (Universitas Syiah Kuala), Yudha Nurdin (Universitas Syiah Kuala), [Oky Firmansyah (Nodeflux)](https://www.nodeflux.io/), Alvin Prayuda Juniarta Dwiyantoro (Google), [Martha Arbayani Zaidan (University of Helsinki)](https://www.marthazaidan.com/), Bernardi Pranggono (School of Computing and Information Science, Anglia Ruskin University) and Chih-Yang Lin (Department of Mechanical Engineering, National Central University, Taiwan)<br><br>
 
@@ -490,5 +490,5 @@ Please download the data, including S3D-GELU features on UCF-Crime, XD-Violence,
 Please consider citing our paper in your publications if the project helps your research.
 
 ```
-“EdgeVAD: A Lightweight Edge AI Framework for Real-Time Video Anomaly Detection in Intelligent Surveillance Systems”, submitted to Electronics, 2026.
+“EdgeVAD: A Lightweight Edge AI Framework for Real-Time Video Anomaly Detection”, submitted to JBD, 2026.
 ```
